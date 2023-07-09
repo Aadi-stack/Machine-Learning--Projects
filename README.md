@@ -151,6 +151,7 @@ Preprocessing Data
 Modeling
 Deployment
 
+Video : https://www.youtube.com/watch?v=i57QmGR4M1Q
 
 ## Feel free to drop a star if you like it.
 
