@@ -1,7 +1,9 @@
-# Machine-Learning-
+
 ## Machine Learning Projects 
 
-1. Car Price Prediction:
+# 1. Car Price Prediction:
+
+# ![CAR Price prediction](https://github.com/Aadi-stack/Machine-Learning--Projects/assets/90136986/6e189a95-9040-4ce6-abcb-f382988a5549)
 
 
 # Problem Statement:
@@ -32,5 +34,58 @@ The following steps will be followed to reach our goal:
 10. Making Predictions Using the Final Model
 11. Model Evaluation
 12. Conclusion
-   
+  
+  # ![prdo](https://github.com/Aadi-stack/Machine-Learning--Projects/assets/90136986/b03cff0e-9141-4ecc-b7be-ab3956200aac)
+
+
+  # 2. Wine Machine Learning:
+
+
+
+![wine](https://github.com/Aadi-stack/Machine-Learning--Projects/assets/90136986/731dfa8f-1cfe-4ddd-842a-d7de628310bd)
+
+For this project, I used Kaggle’s Red Wine Quality dataset to build various classification models to predict whether a particular red wine is “good quality” or not. Each wine in this dataset is given a “quality” score between 0 and 10. For the purpose of this project, I converted the output to a binary output where each wine is either “good quality” (a score of 7 or higher) or not (a score below 7). The quality of a wine is determined by 11 input variables:
+
+Fixed acidity
+Volatile acidity
+Citric acid
+Residual sugar
+Chlorides
+Free sulfur dioxide
+Total sulfur dioxide
+Density
+pH
+Sulfates
+Alcohol
+
+# Objectives
+
+The objectives of this project are as follows:
+
+To experiment with different classification methods to see which yields the highest accuracy
+To determine which features are the most indicative of a good quality wine
+
+# Steps included in this project:
+
+Importing Lib
+Loading Data
+Understanding Data
+Missing Values
+Exploring Variables(Data Analysis)
+Feature Selection
+The proportion of Good vs Bad Wines
+Preparing Data for Modelling
+Applying different models
+Choosing right model
+Hurray you just completed the task!
+
+## Feel free to drop a star if you like it.
+
+
+
+
+
+  
+
+
 
